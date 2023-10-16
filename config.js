@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'gamepad-1',
+			icon: ''ghost,
 			id: '1',
 			links: [
 				{
@@ -157,16 +157,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'tv-2',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Niconico',
+					link: 'https://www.nicovideo.jp',
 				},
 				{
 					name: 'Trello',
